@@ -25,3 +25,4 @@ javac -d . */*/*.java
 | │   │   ├── `QUESTION.md/`      | Ejercicio 3                               |                                                                 |
 | │   ├── `constructor/`          | Tema: Constructores                       |                                                                 |
 | │   │   ├── `CTest.java/`       | Ejemplo de constructores y this           | `javac -d . */*/*.java; java poo/constructor/CTest`             |
+| │   │   ├── `CBloqueInit.java/` | Ejemplo de Bloque de inicialización       | `javac -d . */*/*.java; java poo/constructor/CBloqueInit`       |
