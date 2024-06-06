@@ -23,3 +23,5 @@ javac -d . */*/*.java
 | │   │   ├── `CEjercicio2.java/` | Ejercicio 2                               | `javac -d . */*/*.java; java poo/sobrecarga/CEjercicio2`        |
 | │   │   ├── `CEjercicio4.java/` | Ejercicio 4                               | `javac -d . */*/*.java; java poo/sobrecarga/CEjercicio4`        |
 | │   │   ├── `QUESTION.md/`      | Ejercicio 3                               |                                                                 |
+| │   ├── `constructor/`          | Tema: Constructores                       |                                                                 |
+| │   │   ├── `CTest.java/`       | Ejemplo de constructores y this           | `javac -d . */*/*.java; java poo/constructor/CTest`             |
