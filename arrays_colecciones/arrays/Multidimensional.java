@@ -29,6 +29,7 @@ public class Multidimensional {
         int [][][] atres;
         int [] atresa [][];
         int [][][][][] multidimensional;
+        int acuatro [][];
 
         //Asignar tamaño al array
         ados = new int [3][4]; //Array de 12 elementos
