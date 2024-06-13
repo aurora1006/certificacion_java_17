@@ -19,9 +19,10 @@ Proyecto de preparación y estudio para presentar la certificación de java 17
 | │   ├── `constructor/`                 |   Subtema: Constructores                  |                                                                          |
 | │   │   ├── `CTest.java/`              | Ejemplo de constructores y this           | `javac -d . */*/*.java; java poo/constructor/CTest`                      |
 | │   ├── `methodStatic/`                |   Subtema: Métodos Statics                |                                                                          |
-| │   │   ├── `CTest.java/`              | Ejemplo de métodos static                 | `javac -d . */*/*.java; java poo/methodStatic/CTest`                      |
+| │   │   ├── `CTest.java/`              | Ejemplo de métodos static                 | `javac -d . */*/*.java; java poo/methodStatic/CTest`                     |
 | │   │   ├── `CBloqueInit.java/`        | Ejemplo de Bloque de inicialización       | `javac -d . */*/*.java; java poo/constructor/CBloqueInit`                |
 | ├── `arrays_colecciones/`              | Tema: Arrays y  colecciones               |                                                                          |
 | │   ├── `arrays/`                      |   Subtema: Arrays                         |                                                                          |
 | │   │   ├── `Multidimensional.java/`   | Array multidimensional                    | `javac -d . */*/*.java; java arrays_colecciones/arrays/Multidimensional` |
 | │   │   ├── `Genericos.java/`          | Genericos <T>                             | `javac -d . */*/*.java; java arrays_colecciones/arrays/Genericos`        |
+| │   │   ├── `CListas.java/`            | Listas                                    | `javac -d . */*/*.java; java arrays_colecciones/arrays/CListas`          |
