@@ -26,3 +26,4 @@ Proyecto de preparación y estudio para presentar la certificación de java 17
 | │   │   ├── `Multidimensional.java/`   | Array multidimensional                    | `javac -d . */*/*.java; java arrays_colecciones/arrays/Multidimensional` |
 | │   │   ├── `Genericos.java/`          | Genericos <T>                             | `javac -d . */*/*.java; java arrays_colecciones/arrays/Genericos`        |
 | │   │   ├── `CListas.java/`            | Listas                                    | `javac -d . */*/*.java; java arrays_colecciones/arrays/CListas`          |
+| │   │   ├── `CTablas.java/`            | Tablas Map                                | `javac -d . */*/*.java; java arrays_colecciones/arrays/CTablas`          |
